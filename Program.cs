@@ -6,7 +6,7 @@ namespace Data_of_brth
     {
         static void Main(string[] args)
         {
-            // author kawan pshtiwan
+            // author : kawan pshtiwan
             Console.WriteLine("input date of your birth!");
             string input = Console.ReadLine();
             try { 
