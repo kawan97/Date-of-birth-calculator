@@ -6,7 +6,7 @@ namespace Data_of_brth
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("input date of your birth!");
             string input = Console.ReadLine();
             try { 
                 int age =int.Parse(input);
